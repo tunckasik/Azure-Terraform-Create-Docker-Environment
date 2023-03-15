@@ -18,7 +18,7 @@ git clone https://github.com/tunckasik/Azure-Terraform-Create-Docker-Environment
 ```
 cd Azure-Terraform-Create-Docker-Environment
 ```
-1. Change the variables.tf file with the following variables:
+1. Change the *terraform.tfvars* file with the following variables:
 
 ```hcl
 prefix          = "<your-prefix>"
