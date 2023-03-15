@@ -1,1 +1,1 @@
-# AWS-Terraform-Docker-Hands-on-01
+# AWS-Terraform-Create-Docker-Environment
